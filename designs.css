@@ -1,0 +1,106 @@
+
+body{
+    margin:0%;
+    text-align: center;
+}
+    
+   div {
+       background-color: #aee1e1;
+       background-size: 50px;
+   }
+
+
+   .font{
+font-size: xx-large;
+color: #66BFBF;
+font-weight: normal;
+
+
+    }
+h1{
+    width: 20%;
+    margin: 0 auto;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    margin-top: 30px;
+    line-height: 2;
+       
+}
+
+.top-container {
+    
+}
+.middle-container {
+
+    background-color: antiquewhite;
+}
+.bottom-container {
+    background-size: 100px;
+}
+ .bottom-cloud{
+     position: absolute;
+     margin-left: 70px;
+     
+ }
+ .top-cloud{
+     position: relative;
+     margin-left: 300px;
+     padding-top: 30px;
+     
+ }
+ .circular{
+     border-radius: 50%;
+ }
+.profile{
+    background-color: antiquewhite;
+}
+.skills{
+    background-color: antiquewhite;
+    color: #11999E;
+    
+    
+}
+.skill-row{
+    background-color: antiquewhite;
+    
+    
+
+}
+.contact-me{
+    background-color: antiquewhite;
+}
+.hello{
+    font-size: xx-large;
+    color: #11999E;
+}
+
+.fontcolor{
+    color: #11999E;
+    margin-right: 740px;
+    
+}
+.footer-link{
+    color: #11999E;
+    
+}
+.paragraph{
+    margin-right: 40px;
+    line-height: 3;
+    color: black;
+    
+    
+}
+.computer {
+    width: 15%;
+    margin-right: 740px;
+}
+.pizza{
+    width: 15%;
+    margin-right: 740px;
+}
+
+.fontcolors{
+    
+    margin-right: 740px;
+}
